@@ -1,1 +1,3 @@
+packaga main
+
 func main{}
